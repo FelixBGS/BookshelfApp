@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="search_book">Search Book</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Loading Failed</string>
+    <string name="no_search_results">No search results</string>
+</resources>
